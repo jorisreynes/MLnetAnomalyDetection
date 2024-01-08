@@ -8,4 +8,4 @@ There are Dates, Sales, and a column Alert to show if the sales figures are an a
 
 I added columns Average, Standard Deviation and Anomaly to show the sales figures outside the range average more or less 2 standards deviations
 
-![Screenshot](Screenshot.jpg)
+![Screenshot](MLScreenshot.jpg)
